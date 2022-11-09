@@ -31,3 +31,5 @@ for i in string.ascii_uppercase:
     
     if not os.path.exists("dataSet/testingData/" + i):
         os.makedirs("dataSet/testingData/" + i)
+        
+        
